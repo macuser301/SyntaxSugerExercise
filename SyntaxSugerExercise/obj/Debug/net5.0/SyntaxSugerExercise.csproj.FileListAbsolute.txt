@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.AssemblyInfo.cs
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\SyntaxSugerExercise.exe
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\SyntaxSugerExercise.deps.json
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\SyntaxSugerExercise.runtimeconfig.json
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\SyntaxSugerExercise.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\SyntaxSugerExercise.dll
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\ref\SyntaxSugerExercise.dll
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net5.0\SyntaxSugerExercise.pdb
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.dll
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\ref\SyntaxSugerExercise.dll
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.pdb
+C:\Users\Robz PC\repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net5.0\SyntaxSugerExercise.genruntimeconfig.cache
